@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballFinder2", "BasketballFinder2.csproj", "{778394C6-16B6-486A-BD10-041A8F798800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{778394C6-16B6-486A-BD10-041A8F798800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778394C6-16B6-486A-BD10-041A8F798800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778394C6-16B6-486A-BD10-041A8F798800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778394C6-16B6-486A-BD10-041A8F798800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {780CF83B-49D4-4A0C-89CC-74A6BAF17430}
+	EndGlobalSection
+EndGlobal
